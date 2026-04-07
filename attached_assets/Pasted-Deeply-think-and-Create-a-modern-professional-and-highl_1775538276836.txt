@@ -1,0 +1,95 @@
+Deeply think and Create a modern, professional, and highly polished personal portfolio website for a Software Engineering Undergraduate and aspiring AI Engineer.
+
+Portfolio Owner Details:
+- Name: R.M Vinura Hirushan
+- Age: 23
+- Current Role: Software Engineering Undergraduate
+- University: Saegis Campus
+- Current Position: Full Stack Developer Intern
+- Skills: MERN Stack, JavaScript, React, Node.js, MongoDB, Express.js
+- Career Goal: Become an AI Engineer
+- Interests: Full Stack Development, Artificial Intelligence, Machine Learning, Software Engineering
+
+Design Requirements:
+- Use a premium dark theme with a clean and modern professional look
+- Typography should use elegant fonts like Inter, Poppins, or SF Pro Display
+- Minimal, engineering-level design aesthetic
+- Smooth animations and transitions
+- Fully responsive for desktop, tablet, and mobile
+- Use glassmorphism or soft shadow card design
+- Professional color palette: black, deep navy, white, and subtle blue accents
+- No emojis
+- Use a clean developer-style interface
+- Add smooth scrolling navigation
+- Add hover animations on cards and buttons
+- Modern hero section with professional introduction
+
+Website Sections:
+1. Hero Section
+   - Full name as headline
+   - Title: Software Engineering Undergraduate | Full Stack Developer | Future AI Engineer
+   - Professional short introduction
+   - Call-to-action buttons:
+     - View Projects
+     - Download CV
+     - Contact Me
+
+2. About Me
+   - Professional biography
+   - Career ambitions
+   - Technical interests
+   - Passion for AI and full stack development
+
+3. Skills Section
+   - MERN Stack
+   - JavaScript
+   - React
+   - Node.js
+   - MongoDB
+   - Express.js
+   - HTML
+   - CSS
+   - GitHub
+   - Problem Solving
+   - AI / Machine Learning (Learning Path)
+
+4. Experience Section
+   - Full Stack Developer Intern
+   - Responsibilities and achievements
+   - Technologies used
+
+5. Projects Section
+   Create professional project cards with:
+   - Project image
+   - Title
+   - Description
+   - Tech stack badges
+   - GitHub button
+   - Live demo button
+
+6. Education
+   - Software Engineering Undergraduate
+   - Saegis Campus
+
+7. Career Vision
+   - Future AI Engineer roadmap
+   - Goals in machine learning and intelligent systems
+
+8. Contact Section
+   - Email
+   - LinkedIn
+   - GitHub
+   - Contact form
+
+Technical Requirements:
+- Build using React + Tailwind CSS
+- Use modern component-based architecture
+- Include Framer Motion animations
+- Use reusable components
+- SEO-friendly structure
+- Clean professional code
+- Production-level folder structure
+
+The final output must look like a professional software engineer portfolio suitable for recruiters, internship applications, and LinkedIn showcasing.
+
+Make it look similar to a premium Silicon Valley software engineer portfolio website. no emojis

@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "LrXo07XQ7gAyQuoxRYpxs"
+uri = "file://artifacts/portfolio/public/hero-bg.png"
+type = "image"
+title = "Dark tech lab electric blue"
