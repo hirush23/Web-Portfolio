@@ -102,7 +102,7 @@ function Hero() {
               <a href="#projects" data-testid="button-hero-projects">Inspect Architecture</a>
             </Button>
             <Button asChild size="lg" variant="outline" className="border-white/10 hover:bg-white/5 hover:border-cyan-500/40 hover:text-cyan-300 transition-all backdrop-blur-sm">
-              <a href="https://github.com/vinura-hirushan" target="_blank" rel="noreferrer" data-testid="button-hero-github">
+              <a href="https://github.com/hirush23" target="_blank" rel="noreferrer" data-testid="button-hero-github">
                 <Github className="w-5 h-5 mr-2" />
                 GitHub
               </a>
@@ -481,7 +481,7 @@ const projectsList = [
     title: "DevConnect",
     description: "A full-stack developer networking platform featuring real-time chat, collaborative project spaces, and advanced user matching algorithms based on skill profiles.",
     tech: ["MongoDB", "Express", "React", "Node.js", "Socket.io"],
-    github: "https://github.com/vinura-hirushan",
+    github: "https://github.com/hirush23",
     demo: "#",
     icon: Globe,
     accentColor: "text-cyan-400",
@@ -496,7 +496,7 @@ const projectsList = [
     title: "SmartTask AI",
     description: "An intelligent project management tool that automatically prioritizes tasks based on deadlines, dependencies, and historical work patterns using natural language processing.",
     tech: ["React", "Node.js", "OpenAI API", "Tailwind CSS"],
-    github: "https://github.com/vinura-hirushan",
+    github: "https://github.com/hirush23",
     demo: "#",
     icon: BrainCircuit,
     accentColor: "text-violet-400",
@@ -511,7 +511,7 @@ const projectsList = [
     title: "ShopFlow",
     description: "A comprehensive e-commerce platform with seamless payment integration, real-time inventory synchronization, and a highly detailed analytics dashboard for administrators.",
     tech: ["MERN Stack", "Stripe", "Redux", "JWT Auth"],
-    github: "https://github.com/vinura-hirushan",
+    github: "https://github.com/hirush23",
     demo: "#",
     icon: Database,
     accentColor: "text-emerald-400",
@@ -607,10 +607,10 @@ function Contact() {
       testId: "contact-linkedin",
     },
     {
-      href: "https://github.com/vinura-hirushan",
+      href: "https://github.com/hirush23",
       icon: Github,
       label: "Code Repository",
-      value: "github.com/vinura-hirushan",
+      value: "github.com/hirush23",
       color: "text-violet-400",
       bg: "bg-violet-500/10",
       border: "border-violet-500/20",
